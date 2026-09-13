@@ -1,10 +1,11 @@
 # Avro Bangla Autocorrect Dictionary
 
+[Visit the project website](https://afnan-hossain.github.io/avro-bangla-autocorrect-dictionary-enriched/)
+
 An enriched autocorrect dictionary for [Avro Keyboard](https://www.omicronlab.com/avro-keyboard.html), curated to make everyday Bangla typing faster and more reliable.
 
 [![Dictionary entries](https://img.shields.io/badge/unique%20input%20keys-5%2C495-0b6bcb)](./autodict.dct)
 [![Source book](https://img.shields.io/badge/source-book%20included-e7a72e)](./books/government-standard-bangla-and-practical-bangla-2nd-edition.pdf)
-[![Website](https://img.shields.io/badge/GitHub%20Pages-visit-167d71)](https://afnan-hossain.github.io/avro-bangla-autocorrect-dictionary-enriched/)
 
 ## About the project
 
